@@ -1,7 +1,14 @@
 # AIMS fellows Deep Learning Course
 
 
-## 課
+## 課前問卷調查
+### QrCode
+![Imgur](https://i.imgur.com/9gsxMlI.png)
+
+### Link
+[課前問卷調查連結](https://forms.gle/1FmFkXU39wXPWubN6)
+
+
 ## 上課地點時間
 * 授課日期：109/11/27(五)-110/1/22(五) 。(12/4 &110/1/1不上課)
 * 授課時段：13:30-17:30
